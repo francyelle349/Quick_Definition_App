@@ -1,0 +1,7 @@
+1 - converter template em funcionalidade
+
+2 - flow
+ - provider (adicionar os parametros requisitados)
+ -pages (widgets)
+ - datasource remoto 
+ - provider uses

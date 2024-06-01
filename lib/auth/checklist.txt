@@ -1,0 +1,18 @@
+Presentation: UI e UX 
+ - pages
+ -provider (gerenciamento de estado)
+ - widgets
+
+ Business: Segurança, caches, logs, exceptions, validações
+
+ - entities
+ - repositories
+ - usecases
+
+ Data: Internal & external data, Api
+
+ - datasource
+ -models 
+ -repositories
+
+ Api: https://pokeapi.co/
