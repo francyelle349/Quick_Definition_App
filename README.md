@@ -29,7 +29,7 @@ Display: Definitions are immediately displayed in a readable format, allowing fo
 
 # Usage Scenario
 
-Imagine a student in a library working on a research paper, encountering unfamiliar terms. Instead of flipping through pages of a dictionary, they use Quick Definition to instantly obtain clear explanations, streamlining their study process and enhancing their understanding.
+Imagine a student in a library working on a research paper, encountering unfamiliar terms. Instead of searching a lot of sites in the internet or a lot of different definitions, they use Quick Definition to instantly obtain clear explanations. 
 
 
 # Clean Architecture 
